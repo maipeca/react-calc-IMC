@@ -1,0 +1,43 @@
+.IMC {
+    padding: 40px 0;
+    width: 1000px;
+    box-shadow:inset;
+    border-radius: 50px;
+    background: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    margin: 20px auto;
+    box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;
+
+}
+
+.IMC h2 {
+    color: white;
+}
+
+input{
+    border-radius: 10px;
+    height: 30px;
+    margin-right: 5px;
+    border-color: white;
+}
+
+button{ 
+border-radius: 10px;
+width: 100px;
+height: 30px;
+color: white;
+background: blueviolet;
+border-color: white;
+}
+
+p{ background: white;
+width: 40%;
+text-align: center;
+padding-top: 2px;
+margin: 5% auto;
+border-radius: 20px;
+height: 30px;
+
+
+}
+

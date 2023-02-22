@@ -13,7 +13,7 @@ function Header(props) {
     return (
         <header>
             <h1>{props.title}</h1>
-            <img src={logo} height={100} width={100} />
+            <img src={logo} height={50} width={100} />
             <p>Bem vindo(a)! Pela {count} vez</p>
             <button onClick={increaseCount}>retornar</button>
         </header>
